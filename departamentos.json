@@ -3,7 +3,7 @@
     "departamento": "900's",
     "correo": "",
     "telefono": "",
-    "extension": "2353",
+    "extension": "2353"
   },
   {
     "departamento": "Aclaraciones y Contratos Calle 5ta",
@@ -12,14 +12,14 @@
     "extension": [
       "2453",
       "2595",
-      "2596",
-    ],
+      "2596"
+    ]
   },
   {
     "departamento": "Aclaraciones y Contratos desde EUA",
     "correo": "",
     "telefono": "+1 866-848-0405",
-    "extension": "",
+    "extension": ""
   },
   {
     "departamento": "Aclaraciones y Contratos Mexicali",
@@ -28,37 +28,37 @@
     "extension": [
       "5095",
       "5120"
-    ],
+    ]
   },
   {
     "departamento": "Aclaraciones Telnor (PYME y ASPEL)",
     "correo": "",
     "telefono": "800-123-3535",
-    "extension": "",
+    "extension": ""
   },
   {
     "departamento": "Back Office Apoyo",
     "correo": "",
     "telefono": "",
-    "extension": "2623",
+    "extension": "2623"
   },
   {
     "departamento": "Bancos, Pagos Virtuales y Casas Comerciales",
     "correo": "",
     "telefono": "",
-    "extension": "2909",
+    "extension": "2909"
   },
   {
     "departamento": "Becas Telmex",
     "correo": "",
     "telefono": "800-232-2869",
-    "extension": "2102",
+    "extension": "2102"
   },
   {
     "departamento": "Bienestar Social",
     "correo": "",
     "telefono": "",
-    "extension": "2378",
+    "extension": "2378"
   },
   {
     "departamento": "Cajeros Reportes",
@@ -491,5 +491,5 @@
     "correo": "",
     "telefono": "",
     "extension": "2324",
-  },
+  }
 ]
