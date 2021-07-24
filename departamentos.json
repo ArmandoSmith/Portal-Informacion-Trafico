@@ -3,7 +3,7 @@
     "departamento": "900's",
     "correo": "",
     "telefono": "",
-    "extension": "2353"
+    "extension": ["2353"]
   },
   {
     "departamento": "Aclaraciones y Contratos Calle 5ta",
